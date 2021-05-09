@@ -1,0 +1,7 @@
+b. Dodaj odwołanie do zdalnego repozytorium w lokalnym repozytorium za pomoc ˛a komendy git remote add origin <URL>. W git’cie przyj ˛eło si ˛e, ze odwo- ˙
+łanie do głównego repozytorium (jedno repozytorium lokalne moze odwoły- ˙
+wa´c si ˛e do wielu zdalnych) nazywa si ˛e origin.
+c. Spróbuj wykona´c aktualizacj ˛e zdalnego repozytorium za pomoc ˛a komendy git
+push i sprawd ´z bł ˛ad.
+d. Zaktualizuj zdalne repozytorium wraz z ustawieniem ´sledzenia zdalnego repozytorium przez lokalne za pomoc ˛a komendy wy´swietlonej w tek´scie bł ˛edu.
+Mozna równie ˙ z u˙ zy´c przeł ˛acznika ˙ -u zamiast --set-upstream.
